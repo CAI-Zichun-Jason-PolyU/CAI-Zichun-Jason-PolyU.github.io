@@ -80,7 +80,7 @@ skills:
       - name: Football
         description: ''
         percent: 60
-        icon: football
+        icon: futbol
         icon_pack: fas
 
 # Social/Academic Networking
@@ -91,10 +91,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
+  - icon: x-twitter
     icon_pack: fab
     link: https://x.com/CJJMilan12138?t=KLc1TVx77uj6zSN9LO12-A&s=09
-    label: Follow me on Twitter
+    label: Follow me on X
     display:
       header: true
   # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
