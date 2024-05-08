@@ -63,7 +63,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Blockchain Reseach Assistant
-          company: IMCL Lab, PolyU
+          company: IMCL, PolyU
           company_url: 'https://www4.comp.polyu.edu.hk/~labimcl/index.html'
           company_logo: IMCL
           location: Hong Kong

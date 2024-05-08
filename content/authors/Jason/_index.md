@@ -3,11 +3,11 @@
 title: 蔡梓淳
 
 # Name pronunciation (optional)
-name_pronunciation: Cai Jason Zichun
+name_pronunciation: Cai Zichun Jason
 
 # Full name (for SEO)
-first_name: Zichun
-middle_name: Jason
+first_name: Jason
+middle_name: Zichun
 last_name: Cai
 
 # Status emoji
@@ -30,7 +30,7 @@ bio: My research interests include Blockchain, Privacy Preserving Computing.
 
 # Interests to show in About widget
 interests:
-  - Blockchain
+  - Blockchain Application
   - Privacy Preserving Computing
 
 # Education to show in About widget
@@ -117,5 +117,5 @@ social:
 highlight_name: true
 ---
 
-Cai Jason Zichun is currently a Research Assistant in IMCL Lab, the Department of Computing, The Hong Kong Polytechnic University, Hong Kong, China. His research interests include Blockchain Application and Privacy Preserving Computing.
+Cai Zichun Jason is currently a Research Assistant in IMCL, the Department of Computing, The Hong Kong Polytechnic University, Hong Kong, China. His research interests include Blockchain Application and Privacy Preserving Computing.
 {style="text-align: justify;"}
